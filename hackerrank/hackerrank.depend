@@ -1,0 +1,470 @@
+# depslib dependency file v1.0
+1574159781 source:c:\chandu\hackerrank\c\1.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574159778 source:c:\chandu\hackerrank\c\2.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574159775 source:c:\chandu\hackerrank\c\3.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574159772 source:c:\chandu\hackerrank\c\4.c
+	<stdio.h>
+
+1574159786 source:c:\chandu\hackerrank\c\5.c
+	<stdio.h>
+	<stdlib.h>
+
+1574159784 source:c:\chandu\hackerrank\c\6.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574161137 source:c:\chandu\hackerrank\c\7.c
+	<stdio.h>
+	<stdlib.h>
+
+1575472092 source:c:\chandu\hackerrank\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1575472049 c:\chandu\hackerrank\c\main.h
+
+1574167639 source:c:\chandu\hackerrank\c\8.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574168619 source:c:\chandu\hackerrank\c\9.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574243482 source:c:\chandu\hackerrank\c\10.c
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574244286 source:c:\chandu\hackerrank\c\11.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574245220 source:c:\chandu\hackerrank\c\12.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574249338 source:c:\chandu\hackerrank\c\13.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574245268 source:c:\chandu\hackerrank\c\hackerrank\12.c
+
+1574339261 source:c:\chandu\hackerrank\c\14.c
+	<stdio.h>
+	<stdlib.h>
+
+1575466282 source:c:\chandu\hackerrank\c\15.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574948361 source:c:\chandu\hackerrank\c\16.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1574950098 source:c:\chandu\hackerrank\c\17.c
+	<stdio.h>
+	<stdlib.h>
+
+1575030286 source:c:\chandu\hackerrank\c\18.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575030780 source:c:\chandu\hackerrank\c\19.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1575036727 source:c:\chandu\hackerrank\c\20.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1575036895 source:c:\chandu\hackerrank\c\21.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575452630 source:c:\chandu\hackerrank\c\hackerrank\22.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575456157 source:c:\chandu\hackerrank\c\23.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1575457351 source:c:\chandu\hackerrank\c\24.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575458065 source:c:\chandu\hackerrank\c\25.c
+	<stdio.h>
+	<stdlib.h>
+
+1575464560 source:c:\chandu\hackerrank\c\26.c
+	<stdio.h>
+	<stdlib.h>
+
+1575471767 source:c:\chandu\hackerrank\c\28.cpp
+	<iostream>
+
+1575472093 source:c:\chandu\hackerrank\c\30.cpp
+	<iostream>
+
+1579771675 source:c:\chandu\cpp_preparation\hackerrank\c\1.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574243482 source:c:\chandu\cpp_preparation\hackerrank\c\10.c
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574244286 source:c:\chandu\cpp_preparation\hackerrank\c\11.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574245220 source:c:\chandu\cpp_preparation\hackerrank\c\12.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574249338 source:c:\chandu\cpp_preparation\hackerrank\c\13.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574339261 source:c:\chandu\cpp_preparation\hackerrank\c\14.c
+	<stdio.h>
+	<stdlib.h>
+
+1575466282 source:c:\chandu\cpp_preparation\hackerrank\c\15.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574948361 source:c:\chandu\cpp_preparation\hackerrank\c\16.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1575030286 source:c:\chandu\cpp_preparation\hackerrank\c\18.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575030780 source:c:\chandu\cpp_preparation\hackerrank\c\19.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1579771715 source:c:\chandu\cpp_preparation\hackerrank\c\2.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575036727 source:c:\chandu\cpp_preparation\hackerrank\c\20.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1575036895 source:c:\chandu\cpp_preparation\hackerrank\c\21.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575456157 source:c:\chandu\cpp_preparation\hackerrank\c\23.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1575457351 source:c:\chandu\cpp_preparation\hackerrank\c\24.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575458065 source:c:\chandu\cpp_preparation\hackerrank\c\25.c
+	<stdio.h>
+	<stdlib.h>
+
+1575464560 source:c:\chandu\cpp_preparation\hackerrank\c\26.c
+	<stdio.h>
+	<stdlib.h>
+
+1579771752 source:c:\chandu\cpp_preparation\hackerrank\c\3.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574159772 source:c:\chandu\cpp_preparation\hackerrank\c\4.c
+	<stdio.h>
+
+1574159786 source:c:\chandu\cpp_preparation\hackerrank\c\5.c
+	<stdio.h>
+	<stdlib.h>
+
+1574159784 source:c:\chandu\cpp_preparation\hackerrank\c\6.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574161137 source:c:\chandu\cpp_preparation\hackerrank\c\7.c
+	<stdio.h>
+	<stdlib.h>
+
+1574167639 source:c:\chandu\cpp_preparation\hackerrank\c\8.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574168619 source:c:\chandu\cpp_preparation\hackerrank\c\9.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1579771504 source:c:\chandu\cpp_preparation\hackerrank\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1575560287 c:\chandu\cpp_preparation\hackerrank\c\main.h
+
+1574245268 source:c:\chandu\cpp_preparation\hackerrank\c\hackerrank\12.c
+
+1575452630 source:c:\chandu\cpp_preparation\hackerrank\c\hackerrank\22.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575560145 source:c:\chandu\cpp_preparation\hackerrank\c\30.cpp
+	<iostream>
+
+1579761037 source:c:\chandu\cpp_preparation\hackerrank\c\31.cpp
+	<iostream>
+	<cstdio>
+
+1575560366 source:c:\chandu\cpp_preparation\hackerrank\c\main.cpp
+	<iostream>
+	"main.h"
+
+1579771675 source:c:\chandu\cpp_preparation\hackerrank_c\1.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574243482 source:c:\chandu\cpp_preparation\hackerrank_c\10.c
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574244286 source:c:\chandu\cpp_preparation\hackerrank_c\11.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574245220 source:c:\chandu\cpp_preparation\hackerrank_c\12.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574249338 source:c:\chandu\cpp_preparation\hackerrank_c\13.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574339261 source:c:\chandu\cpp_preparation\hackerrank_c\14.c
+	<stdio.h>
+	<stdlib.h>
+
+1575466282 source:c:\chandu\cpp_preparation\hackerrank_c\15.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574948361 source:c:\chandu\cpp_preparation\hackerrank_c\16.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1575030286 source:c:\chandu\cpp_preparation\hackerrank_c\18.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575030780 source:c:\chandu\cpp_preparation\hackerrank_c\19.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1579771715 source:c:\chandu\cpp_preparation\hackerrank_c\2.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575036727 source:c:\chandu\cpp_preparation\hackerrank_c\20.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1575036895 source:c:\chandu\cpp_preparation\hackerrank_c\21.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575456157 source:c:\chandu\cpp_preparation\hackerrank_c\23.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1575457351 source:c:\chandu\cpp_preparation\hackerrank_c\24.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575458065 source:c:\chandu\cpp_preparation\hackerrank_c\25.c
+	<stdio.h>
+	<stdlib.h>
+
+1575464560 source:c:\chandu\cpp_preparation\hackerrank_c\26.c
+	<stdio.h>
+	<stdlib.h>
+
+1579771752 source:c:\chandu\cpp_preparation\hackerrank_c\3.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1575560145 source:c:\chandu\cpp_preparation\hackerrank_c\30.cpp
+	<iostream>
+
+1579761037 source:c:\chandu\cpp_preparation\hackerrank_c\31.cpp
+	<iostream>
+	<cstdio>
+
+1574159772 source:c:\chandu\cpp_preparation\hackerrank_c\4.c
+	<stdio.h>
+
+1574159786 source:c:\chandu\cpp_preparation\hackerrank_c\5.c
+	<stdio.h>
+	<stdlib.h>
+
+1574159784 source:c:\chandu\cpp_preparation\hackerrank_c\6.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574161137 source:c:\chandu\cpp_preparation\hackerrank_c\7.c
+	<stdio.h>
+	<stdlib.h>
+
+1574167639 source:c:\chandu\cpp_preparation\hackerrank_c\8.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1574168619 source:c:\chandu\cpp_preparation\hackerrank_c\9.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1579771504 source:c:\chandu\cpp_preparation\hackerrank_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1575560287 c:\chandu\cpp_preparation\hackerrank_c\main.h
+
+1574245268 source:c:\chandu\cpp_preparation\hackerrank_c\hackerrank\12.c
+
+1575452630 source:c:\chandu\cpp_preparation\hackerrank_c\hackerrank\22.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
